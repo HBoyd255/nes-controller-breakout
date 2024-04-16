@@ -1394,7 +1394,7 @@
 			(uuid "919f263c-6c4b-41c6-afa4-617783e0c8d1")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR07")
 					(unit 1)
@@ -1460,7 +1460,7 @@
 			(uuid "1a4b4bc0-4304-48e8-8a04-fa8b39b263c0")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR04")
 					(unit 1)
@@ -1527,7 +1527,7 @@
 			(uuid "09a5cbdf-9c4e-485a-b1a9-164046924f68")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "H4")
 					(unit 1)
@@ -1606,7 +1606,7 @@
 			(uuid "80159b69-c053-4b35-87cf-c5e210f70eb1")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "J2")
 					(unit 1)
@@ -1673,7 +1673,7 @@
 			(uuid "5503c6f6-4181-424c-beed-5a9954e480d0")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR05")
 					(unit 1)
@@ -1740,7 +1740,7 @@
 			(uuid "96c49cc5-5fea-44cb-84a2-1efb34621d7e")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR06")
 					(unit 1)
@@ -1807,7 +1807,7 @@
 			(uuid "fa9a0308-2a59-4403-8950-d133750df1ff")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR08")
 					(unit 1)
@@ -1874,7 +1874,7 @@
 			(uuid "d7b095a8-4805-432e-b45c-9f1573e3aa86")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR03")
 					(unit 1)
@@ -1941,7 +1941,7 @@
 			(uuid "c390e237-ef3e-4922-9331-c3cb1c4669a6")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "H3")
 					(unit 1)
@@ -2024,7 +2024,7 @@
 			(uuid "d354f280-1276-4d7c-a65f-f24a59a7b7da")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "J1")
 					(unit 1)
@@ -2090,7 +2090,7 @@
 			(uuid "d48bc3fe-63c8-4d3c-985a-dfe2078648e6")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR01")
 					(unit 1)
@@ -2157,7 +2157,7 @@
 			(uuid "c0dd7f4f-3cfc-4287-ad39-9b06a5d392ce")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "H2")
 					(unit 1)
@@ -2224,7 +2224,7 @@
 			(uuid "decfd63d-8836-454c-a890-bdce211268e3")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "H1")
 					(unit 1)
@@ -2291,7 +2291,7 @@
 			(uuid "bd180c0a-465b-4d16-b164-d67164f3c9d5")
 		)
 		(instances
-			(project "NES_Controller_Breakout"
+			(project "NES_Controller_Breakout_Board"
 				(path "/ef518564-4979-4955-9abf-e66cee58a037"
 					(reference "#PWR02")
 					(unit 1)

@@ -1,4 +1,4 @@
-# NES Controller Breakout
+# NES Controller Breakout Board
 
 <!-- Harry Boyd - hboyd255@gmail.com - 16/04/2024 -->
 

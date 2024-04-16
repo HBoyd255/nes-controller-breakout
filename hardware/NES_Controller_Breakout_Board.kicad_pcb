@@ -158,7 +158,7 @@
 		)
 		(path "/ad7c320c-8629-45d7-b3b2-6167af734189")
 		(sheetname "Root")
-		(sheetfile "NES_Controller_Breakout.kicad_sch")
+		(sheetfile "NES_Controller_Breakout_Board.kicad_sch")
 		(fp_rect
 			(start -12.838126 -14.968295)
 			(end 13 0)
@@ -405,7 +405,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/e4a0b3e0-dd09-4620-97f2-d021b0c28afb")
 		(sheetname "Root")
-		(sheetfile "NES_Controller_Breakout.kicad_sch")
+		(sheetfile "NES_Controller_Breakout_Board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -520,7 +520,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/36b9ac5c-fe8f-4fe5-9297-3be6b8646cb3")
 		(sheetname "Root")
-		(sheetfile "NES_Controller_Breakout.kicad_sch")
+		(sheetfile "NES_Controller_Breakout_Board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 -1.27)
@@ -1468,7 +1468,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/e64ef5dd-0a71-4c82-9659-76d846dc4e2e")
 		(sheetname "Root")
-		(sheetfile "NES_Controller_Breakout.kicad_sch")
+		(sheetfile "NES_Controller_Breakout_Board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1583,7 +1583,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/a9fbfd5e-c3b7-47a2-bcee-b0ce4d0c9ff1")
 		(sheetname "Root")
-		(sheetfile "NES_Controller_Breakout.kicad_sch")
+		(sheetfile "NES_Controller_Breakout_Board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1698,7 +1698,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/28bd8000-8919-4928-a1e1-b36d6b674f70")
 		(sheetname "Root")
-		(sheetfile "NES_Controller_Breakout.kicad_sch")
+		(sheetfile "NES_Controller_Breakout_Board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
