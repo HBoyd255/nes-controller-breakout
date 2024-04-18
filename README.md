@@ -20,7 +20,7 @@ This board is part of a lab that I am creating for the York Engineering Society.
 The lab is designed to give insight into how 4000 series logic chips work, and
 despite their age, how they are still useful today.
 
-![A render of the PCB](images\PcbRender.png)
+![A render of the PCB](images/PcbRender.png)
 
 ## Fabrication
 
