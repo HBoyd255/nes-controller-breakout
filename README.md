@@ -13,3 +13,15 @@ The reason I made this board is for debugging and testing. The NES controller is
 beautifully simple, in that it contains a single 4021 shift register. This makes
 it compatible with pretty much any microcontroller that has at least 3 spare
 GPIO pins.
+
+## Logic Lab
+
+This board is part of a lab that I am creating for the York Engineering Society.
+The lab is designed to give insight into how 4000 series logic chips work, and
+despite their age, how they are still useful today.
+
+![A render of the PCB](images\PcbRender.png)
+
+## Fabrication
+
+To fabricate this board, zip the contents of the `gerber` folder and upload them to your chosen PCB manufacturer. I would recommend using JLCPCB.
